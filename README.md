@@ -2,9 +2,9 @@
 
 # Sobre o projeto
 
-[Link do deploy]()
+[Link do deploy](https://labeddit-back-end-ourc.onrender.com)
 
-[Link da documentação]()
+[Link da documentação](https://documenter.getpostman.com/view/24460635/2s93XyT3Ej)
 
 [Link do repositório front-end](https://github.com/Jpbrixner/labeddit-front-end)
 
